@@ -3,17 +3,6 @@
 ## 📌 Project Overview
 This Power BI project provides an in-depth analysis of the US healthcare system, covering various metrics such as hospital performance, patient demographics, insurance coverage, and healthcare expenditures. The goal of this project is to offer valuable insights to policymakers, healthcare professionals, and researchers to enhance decision-making.
 
-## 📂 Dataset Information
-- **Data Attributes:**
-  - Hospital Name
-  - State/Region
-  - Patient Demographics (Age, Gender, etc.)
-  - Insurance Coverage
-  - Healthcare Costs
-  - Readmission Rates
-  - Doctor-to-Patient Ratio
-  - And more...
-
 ## 🎯 Key Insights
 - Regional disparities in healthcare access
 - Hospital performance based on readmission rates
